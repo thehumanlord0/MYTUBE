@@ -190,10 +190,10 @@ msgstr "Легко скачивайте видео с YouTube, Dailymotion, Vime
 
 #: classes/Controller/FrontController.php:112
 msgid ""
-"List of all supported websites from which AllTube Download can extract video "
+"List of all supported websites from which CyberStainBot can extract video "
 "or audio files"
 msgstr ""
-"Список всех поддерживаемых веб-сайтов, с которых AllTube Download может "
+"Список всех поддерживаемых веб-сайтов, с которых CyberStainBot может "
 "извлекать видео или аудио файлы"
 
 #: classes/Controller/FrontController.php:138
@@ -202,9 +202,9 @@ msgstr "Запрос пароля"
 
 #: classes/Controller/FrontController.php:140
 msgid ""
-"You need a password in order to download this video with AllTube Download"
+"You need a password in order to download this video with CyberStainBot"
 msgstr ""
-"Чтобы скачать это видео с помощью AllTube Download, вам потребуется пароль"
+"Чтобы скачать это видео с помощью CyberStainBot, вам потребуется пароль"
 
 #: classes/Controller/FrontController.php:174
 msgid "Video download"

@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
-"Project-Id-Version: AllTube Download\n"
+"Project-Id-Version: CyberStainBot\n"
 "Language: ar\n"
 
 #: templates/error.tpl:6
@@ -160,15 +160,15 @@ msgid "Easily download videos from Youtube, Dailymotion, Vimeo and other website
 msgstr "حمل مقاطع الفيديو بكل سهولة من يوتيوب، انستقرام، فيميو وغيره."
 
 #: controllers/FrontController.php:168
-msgid "List of all supported websites from which Alltube Download can extract video or audio files"
-msgstr "قائمة كل المواقع التي يدعم Alltube Download تحميل الفيديوات أو مقاطع الصوت منها"
+msgid "List of all supported websites from which CyberStainBot can extract video or audio files"
+msgstr "قائمة كل المواقع التي يدعم CyberStainBot تحميل الفيديوات أو مقاطع الصوت منها"
 
 #: controllers/FrontController.php:193
 msgid "Password prompt"
 msgstr "ادخل كلمة السر"
 
 #: controllers/FrontController.php:194
-msgid "You need a password in order to download this video with Alltube Download"
+msgid "You need a password in order to download this video with CyberStainBot"
 msgstr "تحتاج لكلمة السر لكي تستطع تحميل هذا الفيديو باستخدام Alltube Donwload"
 
 #: controllers/FrontController.php:311

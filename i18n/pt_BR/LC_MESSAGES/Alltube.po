@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
-"Project-Id-Version: AllTube Download\n"
+"Project-Id-Version: CyberStainBot\n"
 "Language: pt-br\n"
 
 #: templates/error.tpl:6
@@ -82,8 +82,8 @@ msgid "Design by"
 msgstr "Design por"
 
 #: templates/inc/footer.tpl:12
-msgid "AllTube Download on Facebook"
-msgstr "AllTube Download no Facebook"
+msgid "CyberStainBot on Facebook"
+msgstr "CyberStainBot no Facebook"
 
 #: templates/inc/footer.tpl:12
 msgid "Like us on Facebook"
@@ -172,7 +172,7 @@ msgid "Easily download videos from Youtube, Dailymotion, Vimeo and other website
 msgstr ""
 
 #: controllers/FrontController.php:160
-msgid "List of all supported websites from which Alltube Download can extract video or audio files"
+msgid "List of all supported websites from which CyberStainBot can extract video or audio files"
 msgstr ""
 
 #: controllers/FrontController.php:185
@@ -180,7 +180,7 @@ msgid "Password prompt"
 msgstr ""
 
 #: controllers/FrontController.php:186
-msgid "You need a password in order to download this video with Alltube Download"
+msgid "You need a password in order to download this video with CyberStainBot"
 msgstr ""
 
 #: controllers/FrontController.php:261

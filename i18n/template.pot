@@ -178,7 +178,7 @@ msgstr ""
 
 #: classes/Controller/FrontController.php:112
 msgid ""
-"List of all supported websites from which AllTube Download can extract video "
+"List of all supported websites from which CyberStainBot can extract video "
 "or audio files"
 msgstr ""
 
@@ -188,7 +188,7 @@ msgstr ""
 
 #: classes/Controller/FrontController.php:140
 msgid ""
-"You need a password in order to download this video with AllTube Download"
+"You need a password in order to download this video with CyberStainBot"
 msgstr ""
 
 #: classes/Controller/FrontController.php:174

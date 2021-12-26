@@ -226,10 +226,10 @@ msgstr "Łatwo ściągaj z Youtube, Dailymotion, Vimeo oraz innych stron."
 
 #: controllers/FrontController.php:110
 msgid ""
-"List of all supported websites from which Alltube Download can extract video "
+"List of all supported websites from which CyberStainBot can extract video "
 "or audio files"
 msgstr ""
-"Lista wszystkich obsługiwanych stron, z których Alltube Download potrafi "
+"Lista wszystkich obsługiwanych stron, z których CyberStainBot potrafi "
 "ekstrahować pliki wideo lub audio."
 
 #: controllers/FrontController.php:136
@@ -238,8 +238,8 @@ msgstr "Podaj hasło"
 
 #: controllers/FrontController.php:138
 msgid ""
-"You need a password in order to download this video with Alltube Download"
-msgstr "Musisz podać hasło, aby ściągnąć to wideo z Alltube Download"
+"You need a password in order to download this video with CyberStainBot"
+msgstr "Musisz podać hasło, aby ściągnąć to wideo z CyberStainBot"
 
 #: controllers/FrontController.php:169
 msgid "Video download"

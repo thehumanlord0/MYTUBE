@@ -45,7 +45,7 @@ remux: false
 audioBitrate: 128
 
 # App name
-appName: AllTube Download
+appName: CyberStainBot
 
 # Generic formats supported by youtube-dl
 genericFormats:

@@ -215,10 +215,10 @@ msgstr ""
 
 #: controllers/FrontController.php:110
 msgid ""
-"List of all supported websites from which Alltube Download can extract video "
+"List of all supported websites from which CyberStainBot can extract video "
 "or audio files"
 msgstr ""
-"Lista di tutti i siti supportati da cui Alltube Download può estrarre file "
+"Lista di tutti i siti supportati da cui CyberStainBot può estrarre file "
 "video o audio"
 
 #: controllers/FrontController.php:136
@@ -227,9 +227,9 @@ msgstr "Richiesta password"
 
 #: controllers/FrontController.php:138
 msgid ""
-"You need a password in order to download this video with Alltube Download"
+"You need a password in order to download this video with CyberStainBot"
 msgstr ""
-"Ti serve una password per scaricare questo video con Alltube Download"
+"Ti serve una password per scaricare questo video con CyberStainBot"
 
 #: controllers/FrontController.php:169
 msgid "Video download"

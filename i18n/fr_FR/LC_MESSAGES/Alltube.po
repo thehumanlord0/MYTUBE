@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: AllTube Download\n"
+"Project-Id-Version: CyberStainBot\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
@@ -226,10 +226,10 @@ msgstr ""
 
 #: controllers/FrontController.php:110
 msgid ""
-"List of all supported websites from which AllTube Download can extract video "
+"List of all supported websites from which CyberStainBot can extract video "
 "or audio files"
 msgstr ""
-"Liste de tous les sites web depuis lesquels AllTube Download peut extraire "
+"Liste de tous les sites web depuis lesquels CyberStainBot peut extraire "
 "des fichiers vidéo ou audio"
 
 #: controllers/FrontController.php:136
@@ -238,7 +238,7 @@ msgstr "Demande de mot de passe"
 
 #: controllers/FrontController.php:138
 msgid ""
-"You need a password in order to download this video with AllTube Download"
+"You need a password in order to download this video with CyberStainBot"
 msgstr ""
 "Vous avez besoin d'un mot de passe pour télécharger cette vidéo avec AllTube "
 "Download"

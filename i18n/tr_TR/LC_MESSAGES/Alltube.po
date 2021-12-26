@@ -218,16 +218,16 @@ msgid "Easily download videos from Youtube, Dailymotion, Vimeo and other website
 msgstr "Youtube, Dailymotion, Vimeo ve diğer web sitelerinden videoları kolayca indirin."
 
 #: controllers/FrontController.php:110
-msgid "List of all supported websites from which Alltube Download can extract video or audio files"
-msgstr "Alltube Download'un video veya ses dosyalarını indirebileceğiniz, desteklenen tüm web sitelerinin listesi"
+msgid "List of all supported websites from which CyberStainBot can extract video or audio files"
+msgstr "CyberStainBot'un video veya ses dosyalarını indirebileceğiniz, desteklenen tüm web sitelerinin listesi"
 
 #: controllers/FrontController.php:136
 msgid "Password prompt"
 msgstr "Parola istemi"
 
 #: controllers/FrontController.php:138
-msgid "You need a password in order to download this video with Alltube Download"
-msgstr "Bu videoyu Alltube Download ile indirmek için bir parolaya ihtiyacınız var"
+msgid "You need a password in order to download this video with CyberStainBot"
+msgstr "Bu videoyu CyberStainBot ile indirmek için bir parolaya ihtiyacınız var"
 
 #: controllers/FrontController.php:169
 msgid "Video download"

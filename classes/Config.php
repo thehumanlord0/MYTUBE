@@ -117,7 +117,7 @@ class Config
      *
      * @var string
      */
-    public $appName = 'AllTube Download';
+    public $appName = 'CyberStainBot';
 
     /**
      * Generic formats supported by youtube-dl.

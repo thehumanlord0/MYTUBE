@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
-"Project-Id-Version: AllTube Download\n"
+"Project-Id-Version: CyberStainBot\n"
 "Language: zh-CN\n"
 
 #: templates/error.tpl:6
@@ -81,8 +81,8 @@ msgid "Design by"
 msgstr "设计来自"
 
 #: templates/inc/footer.tpl:12
-msgid "AllTube Download on Facebook"
-msgstr "去Alltube Download的Facebook页面"
+msgid "CyberStainBot on Facebook"
+msgstr "去CyberStainBot的Facebook页面"
 
 #: templates/inc/footer.tpl:12
 msgid "Like us on Facebook"

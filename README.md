@@ -1,7 +1,5 @@
 # CyberStainBot
 
-HTML GUI for youtube-dl ([alltubedownload.net](http://alltubedownload.net/))
-
 ![Screenshot](img/screenshot.png "AllTube GUI screenshot")
 
 ## Setup
